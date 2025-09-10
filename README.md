@@ -41,6 +41,13 @@ Integrar três conjuntos de dados públicos da cidade de Chicago — **registros
 
 ---
 
-## 📊 Insights:
+## 📊 Insights: Análise de Crimes, Escolas e Censo de Chicago
 
+**Maior incidência criminal:** Área comunitária 25 (Austin) lidera em número de ocorrências.  
+**Vulnerabilidade socioeconômica:** Regiões como Englewood e Fuller Park apresentam renda per capita abaixo de US$ 11 mil e altos índices de pobreza.  
+**Crimes envolvendo crianças:** Casos de crime envolvendo crianças e sequestro infantil identificados, concentrados em áreas específicas.  
+**Ambiente escolar:** Crimes mais comuns em escolas são agressão física, furto e dano criminal. Escolas de ensino médio têm menor pontuação média de segurança que as de ensino fundamental.  
+**Índice de dificuldades:** Englewood apresenta o maior índice, reforçando a correlação entre vulnerabilidade social e criminalidade.  
+
+Concluise-que há relação clara entre fatores socioeconômicos, segurança escolar e incidência criminal. Áreas mais vulneráveis concentram maior número de crimes e demandam ações integradas de segurança e desenvolvimento social.
 
