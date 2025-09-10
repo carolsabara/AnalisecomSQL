@@ -49,5 +49,5 @@ Integrar três conjuntos de dados públicos da cidade de Chicago — **registros
 **Ambiente escolar:** Crimes mais comuns em escolas são agressão física, furto e dano criminal. Escolas de ensino médio têm menor pontuação média de segurança que as de ensino fundamental.  
 **Índice de dificuldades:** Englewood apresenta o maior índice, reforçando a correlação entre vulnerabilidade social e criminalidade.  
 
-Concluise-que há relação clara entre fatores socioeconômicos, segurança escolar e incidência criminal. Áreas mais vulneráveis concentram maior número de crimes e demandam ações integradas de segurança e desenvolvimento social.
+Conclui-se que há relação clara entre fatores socioeconômicos, segurança escolar e incidência criminal. Áreas mais vulneráveis concentram maior número de crimes e demandam ações integradas de segurança e desenvolvimento social.
 
